@@ -1,0 +1,85 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;700&display=swap&quot");
+
+body {
+    background-color: #fffffe;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.head1 {
+    width: 550px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+.head2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.art1{
+    width: 500px;
+}
+a {
+    text-decoration: none;
+    margin-left: 10px;
+   
+}
+.a2{
+    font-size: small;
+}
+header{
+    margin-bottom: 60px;
+    width: 90%;
+}
+.line{
+    width: 100%;
+    height: 1px;
+    background-color: black;margin-top: 2px;
+}
+.parent{
+    display: flex;
+}
+.part1,.part2{
+    display:  flex;
+    margin: 10px;
+    gap: 20px;
+}
+.part2{
+    margin-left: auto;
+}
+
+button{
+    background-color: rgb(111, 61, 158);
+    border-radius: 15px;
+    color: white;
+    padding: 6px;
+}
+.art2,.art3,.art4{
+    width: 340px;
+    border: 1px solid rgb(10, 10, 10);
+    margin: 10px;
+    border-radius: 30px;
+    padding: 10px;
+}
+.top{
+    padding-left: 10px;
+}
+p{
+    padding-left: 1px;
+}
+a:hover{
+    color: red;
+}
+.link1,.link2,.link3,.link4,.link5:visited{
+color: rgb(0, 0, 0);
+}
