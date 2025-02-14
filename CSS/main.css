@@ -32,10 +32,14 @@ body {
 a {
     text-decoration: none;
     margin-left: 10px;
-   
 }
-.a2{
-    font-size: small;
+.par1{
+    margin-left: 10px;
+    color: blueviolet;
+}
+.div3{
+    display: flex;
+    margin: 10px;
 }
 header{
     margin-bottom: 60px;
@@ -60,9 +64,9 @@ header{
 
 button{
     background-color: rgb(111, 61, 158);
-    border-radius: 15px;
+    border-radius: 200px;
     color: white;
-    padding: 6px;
+    padding: 10px;
 }
 .art2,.art3,.art4{
     width: 340px;
